@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Algorithm.
 - 💞️ I’m looking to collaborate on Algorithm.
-- 📫 How to reach me: nlart@gmail.com
+- 📫 How to reach me: n1art@outlook.com
 
 <!---
 nlart/nlart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
